@@ -1,0 +1,11 @@
+{
+	"name": "docker-express",
+	"version": "0.0.1",
+	"description": "docker-express",
+	"main": "app.js",
+	"author": "w",
+	"license": "MIT",
+	"devDependencies":{
+	    "express":"^4.16.0"
+	}
+}
